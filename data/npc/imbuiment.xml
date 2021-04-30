@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npc name="Imbuiment" script="imbuiment.lua" walkinterval="3300" floorchange="0">
+	<health now="100" max="100" />
+	<look type="151" head="80" body="30" legs="10" feet="30" addons="3"/>
+</npc>

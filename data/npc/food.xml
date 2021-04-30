@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Food" walkinterval="2000" floorchange="0" script="food.lua">
+	<health now="100" max="100"/>
+	<look type="155" head="80" body="30" legs="10" feet="30" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="rotworm stew,9992,100000; 
+		hydra tongue salad,9993,100000;
+		roasted dragon wings,9994,100000;
+		veggie casserole,9997,100000;
+		tropical marinated tiger,35174	,100000;
+		tropical fried terrorbirds,9995,100000;
+		sweet mangonaise elixir,12544,100000;
+		svargrond salmon filet,35177,100000;
+		strawberry cupcake,31720,100000;
+		roasted wyvern wings,35172,100000;
+		pot of blackjack,12542,100000;
+		overcooked noodles,35180,100000;
+		northern fishburger,10001,100000;
+		lemon cupcake,31721,100000;
+		demonic candy ball,12543,100000;
+		delicatessen salad,35175,100000;
+		consecrated beef,35179,100000;
+		coconut shrimp bake,12540,100000;
+		chilli con carniphila,35176,100000;
+		carrot pie,35173,100000;
+		carrion casserole,35178,100000;
+		blueberry cupcake,31719,100000;
+		blessed steak,9999,100000;
+		banana chocolate shake,9996,100000;"/>
+	</parameters>
+</npc>

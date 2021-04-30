@@ -1,0 +1,728 @@
+--- Total de Monstros no Servidor ---
+Acid Blob - 34
+Acolyte of the Cult - 311
+Adept of the Cult - 144
+Adult Goanna - 72
+Adventurer - 28
+Amazon - 141
+Ancient Scarab - 203
+Animated Clomp - 2
+Animated Feather - 45
+Animated Guzzlemaw - 2
+Animated Moohtant - 2
+Animated Mummy - 1
+Animated Ogre Brute - 1
+Animated Ogre Savage - 1
+Animated Ogre Shaman - 1
+Animated Rotworm - 1
+Animated Skunk - 2
+Animated Sword - 12
+Annihilon - 1
+Arachnophobica - 198
+Armadile - 24
+Ashmunrah - 1
+Askarak Demon - 53
+Assassin - 92
+Azure Frog - 20
+Bad Dream - 6
+Badger - 47
+Baleful Bunny - 12
+Bandit - 146
+Bane Bringer - 12
+Banshee - 125
+Barbarian Bloodwalker - 53
+Barbarian Brutetamer - 33
+Barbarian Headsplitter - 98
+Barbarian Skullhunter - 72
+Barkless Devotee - 35
+Barkless Fanatic - 46
+Bat - 302
+Bear - 118
+Behemoth - 254
+Berserker Chicken - 8
+Betrayed Wraith - 96
+Bibby Bloodbath - 1
+Biting Book - 21
+Black Knight - 1
+Black Sheep - 11
+Black Sphinx Acolyte - 92
+Blazing Fire Elemental - 14
+Blightwalker - 154
+Blistering Fire Elemental - 31
+Blood Beast - 47
+Blood Crab - 195
+Blood Hand - 26
+Blood Priest - 46
+Blue Butterfly - 56
+Blue Djinn - 72
+Boar - 18
+Bog Frog - 12
+Bog Raider - 202
+Bone Capsule - 1
+Bonebeast - 371
+Bonelord - 317
+Bonny Bunny - 14
+Boogey - 1
+Boogy - 41
+Bragrumol - 1
+Brain Squid - 23
+Braindeath - 42
+Brimstone Bug - 178
+Brittle Skeleton - 33
+Broken Shaper - 322
+Brown Horse - 3
+Bug - 450
+Burning Book - 77
+Burning Gladiator - 143
+Burster Spectre - 63
+Butterfly - 38
+Calamary - 22
+Carniphila - 116
+Carrion Worm - 252
+Cat - 24
+Cave Devourer - 41
+Cave Parrot - 4
+Cave Rat - 411
+Centipede - 322
+Chakoya Toolshaper - 196
+Chakoya Tribewarden - 168
+Chakoya Windcaller - 101
+Charged Energy Elemental - 28
+Chasm Spawn - 65
+Chicken - 53
+Choking Fear - 172
+Clay Guardian - 210
+Cliff Strider - 18
+Clomp - 124
+Cobra - 172
+Cobra Assassin - 104
+Cobra Scout - 91
+Cobra Vizier - 46
+Cockroach - 7
+Coral Frog - 23
+Corym Charlatan - 253
+Corym Skirmisher - 198
+Corym Vanguard - 114
+Crab - 109
+Crawler - 156
+Crazed Beggar - 20
+Crazed Dwarf - 12
+Crazed Summer Rearguard - 108
+Crazed Summer Vanguard - 61
+Crazed Winter Rearguard - 126
+Crazed Winter Vanguard - 132
+Crimson Frog - 33
+Crocodile - 194
+Crustacea Gigantica - 2
+Crypt Shambler - 580
+Crypt Warden - 62
+Crystal Spider - 224
+Crystal Wolf - 5
+Crystalcrusher - 184
+Cult Believer - 50
+Cult Enforcer - 35
+Cult Scholar - 12
+Cursed Book - 12
+Cyclops - 383
+Cyclops Drone - 139
+Cyclops Smith - 93
+Damaged Crystal Golem - 12
+Damaged Worker Golem - 32
+Dark Apprentice - 79
+Dark Faun - 97
+Dark Magician - 75
+Dark Monk - 115
+Dark Torturer - 373
+Dawn Scorpion - 22
+Dawnfire Asura - 75
+Dawnfly - 39
+Dazed Leaf Golem - 1
+Death Blob - 178
+Death Priest - 14
+Deathling Scout - 83
+Deathling Spellsinger - 85
+Deathslicer - 5
+Deaththrower - 8
+Deepling Brawler - 3
+Deepling Elite - 10
+Deepling Guard - 95
+Deepling Master Librarian - 2
+Deepling Scout - 127
+Deepling Spellsinger - 176
+Deepling Tyrant - 8
+Deepling Warrior - 153
+Deepling worker - 30
+Deepsea Blood Crab - 3
+Deepworm - 123
+Deer - 299
+Defiler - 61
+Demon - 306
+Demon Goblin - 34
+Demon Outcast - 186
+Demon Parrot - 4
+Demon Skeleton - 955
+Demon Summoner - 5
+Despair - 5
+Desperate Soul - 1
+Destroyer - 197
+Devourer - 103
+Diabolic Imp - 84
+Diamond Servant - 1
+Diamond Servant Replica - 23
+Dipthrah - 1
+Diremaw - 177
+Dirtbeard - 1
+Diseased Bill - 1
+Diseased Dan - 1
+Diseased Fred - 1
+Doctor Perhaps - 1
+Dog - 11
+Doom Deer - 9
+Dragon - 499
+Dragon Hatchling - 167
+Dragon Lord - 356
+Dragon Lord Hatchling - 57
+Dragon Servant - 2
+Dragon Warden - 4
+Dragon Wrath - 4
+Dragonling - 6
+Draken Abomination - 75
+Draken Elite - 51
+Draken Spellweaver - 256
+Draken Warmaster - 532
+Drillworm - 237
+Dromedary - 62
+Dwarf - 331
+Dwarf Geomancer - 73
+Dwarf Guard - 436
+Dwarf Miner - 17
+Dwarf Soldier - 447
+Dworc Fleshhunter - 222
+Dworc Venomsniper - 221
+Dworc Voodoomaster - 96
+Earth Elemental - 300
+Earworm - 44
+Efreet - 33
+Elder Bonelord - 54
+Elder Mummy - 25
+Elder Wyrm - 107
+Electric Sparks - 8
+Elephant - 30
+Elf - 60
+Elf Arcanist - 69
+Elf Scout - 71
+Emerald Damselfly - 95
+Energetic Book - 58
+Energized Raging Mage - 1
+Energuardian of Tales - 20
+Energy Elemental - 105
+Enfeebled Silencer - 54
+Enlightened of the Cult - 124
+Enraged Crystal Golem - 23
+Enslaved Dwarf - 70
+Eternal Guardian - 60
+Evil Mastermind - 1
+Evil Sheep - 8
+Execowtioner - 151
+Exotic Bat - 109
+Exotic Cave Spider - 48
+Eye of the Seven - 18
+Falcon Knight - 101
+Falcon Paladin - 91
+Faun - 40
+Feral Sphinx - 48
+Feversleep - 83
+Fire Devil - 142
+Fire Elemental - 323
+Firestarter - 35
+Fish - 73
+Flamethrower - 47
+Flamingo - 68
+Floating Savant - 67
+Floor Blob - 11
+Flying Book - 6
+Forest Fury - 27
+Fox - 20
+Frazzlemaw - 105
+Frost Dragon - 212
+Frost Dragon Hatchling - 116
+Frost Flower Asura - 14
+Frost Giant - 120
+Frost Giantess - 96
+Frost Troll - 297
+Frozen Minion - 4
+Furious Troll - 19
+Fury - 142
+Gang Member - 80
+Gargoyle - 528
+Gazer - 25
+Gazer Spectre - 93
+Ghastly Dragon - 42
+Ghost - 547
+Ghost Wolf - 24
+Ghoul - 1216
+Ghoulish Hyaena - 25
+Giant Spider - 314
+Gladiator - 48
+Glitterscale - 1
+Gloom Wolf - 23
+Glooth Anemone - 148
+Glooth Bandit - 145
+Glooth Blob - 222
+Glooth Bomb - 1
+Glooth Brigand - 113
+Glooth Golem - 130
+Gnarlhound - 115
+Gnome Pack Crawler - 3
+Goblin - 238
+Goblin Assassin - 41
+Goblin Leader - 1
+Goblin Scavenger - 71
+Golden Servant - 1
+Golden Servant Replica - 22
+Goldhanded Cultist - 25
+Golgordan - 1
+Gozzler - 65
+Grand Canon Dominus - 1
+Grand Chaplain Gaunder - 1
+Grand Commander Soeren - 1
+Grave Guard - 23
+Grave Robber - 4
+Gravedigger - 30
+Green Djinn - 115
+Green Frog - 25
+Grim Reaper - 425
+Grimeleech - 346
+Gryphon - 11
+Guardian of Tales - 26
+Guilt - 33
+Guzzlemaw - 77
+Hand of Cursed Fate - 62
+Haunted Dragon - 15
+Haunted Treeling - 106
+Hell Hole - 15
+Hellfire Fighter - 189
+Hellflayer - 210
+Hellgorak - 1
+Hellhound - 216
+Hellspawn - 369
+Heoni - 1
+Hero - 53
+Hibernal Moth - 1
+Hideous Fungus - 88
+Hive Overseer - 9
+Hive Pore - 20
+Horse - 8
+Hot Dog - 3
+Humongous Fungus - 87
+Humorless Fungus - 23
+Hunter - 46
+Husky - 11
+Hyaena - 88
+Hydra - 275
+Ice Dragon - 12
+Ice Golem - 287
+Ice Witch - 89
+Icecold Book - 91
+Incredibly Old Witch - 1
+Infected Weeper - 9
+Infernal Frog - 2
+Infernalist - 21
+Ink Blob - 23
+Inky - 1
+Insane Siren - 69
+Insect Swarm - 41
+Insectoid Scout - 2
+Insectoid Worker - 131
+Iron Servant - 103
+Iron Servant Replica - 3
+Ironblight - 28
+Island Troll - 76
+Jagged Earth Elemental - 15
+Jailer - 1
+Jellyfish - 36
+Juggernaut - 179
+Juvenile Cyclops - 11
+Killer Caiman - 75
+Killer Rabbit - 9
+Knowledge Elemental - 28
+Kollos - 101
+Kongra - 191
+Koshei The Deathless - 2
+Kraknaknork - 1
+Ladybug - 48
+Lamassu - 36
+Lancer Beetle - 140
+Larva - 1447
+Latrivan - 1
+Lava Golem - 29
+Lava Lurker - 66
+Lava Lurker Attendant - 6
+Lavahole - 20
+Leaf Golem - 76
+Lesser Fire Devil - 24
+Lesser Swarmer - 42
+Librarian - 1
+Lich - 121
+Lion - 63
+Little Corym Charlatan - 5
+Lizard Chosen - 141
+Lizard Dragon Priest - 164
+Lizard High Guard - 520
+Lizard Legionnaire - 246
+Lizard Magistratus - 5
+Lizard Noble - 6
+Lizard Sentinel - 144
+Lizard Snakecharmer - 60
+Lizard Templar - 150
+Lizard Zaogun - 222
+Lost Basher - 283
+Lost Berserker - 50
+Lost Exile - 25
+Lost Gnome - 5
+Lost Husher - 169
+Lost Soul - 116
+Lost Thrower - 303
+Lumbering Carnivor - 17
+Mad Scientist - 37
+Madareth - 1
+Magic Pillar - 2
+Magicthrower - 80
+Magma Crawler - 37
+Mahrdis - 1
+Makeshift Home - 21
+Mammoth - 157
+Manta Ray - 13
+Manticore - 53
+Marid - 22
+Marsh Stalker - 72
+Massive Earth Elemental - 163
+Massive Energy Elemental - 13
+Massive Fire Elemental - 54
+Massive Water Elemental - 51
+Mechanical Fighter - 5
+Medusa - 189
+Menacing Carnivor - 41
+Mephiles - 1
+Mercury Blob - 23
+Merlkin - 67
+Metal Gargoyle - 125
+Midnight Asura - 59
+Mimic - 23
+Minion Of Versperoth - 2
+Minotaur - 343
+Minotaur Amazon - 203
+Minotaur Archer - 108
+Minotaur Bruiser - 51
+Minotaur Cult Follower - 67
+Minotaur Cult Prophet - 49
+Minotaur Cult Zealot - 44
+Minotaur Guard - 128
+Minotaur Hunter - 72
+Minotaur Mage - 65
+Minotaur Occultist - 9
+Minotaur Poacher - 32
+Misguided Bully - 82
+Misguided Thief - 70
+Modified Gnarlhound - 3
+Mole - 8
+Monk - 62
+Monstor - 1
+Mooh'Tah Master - 1
+Mooh'Tah Warrior - 87
+Moohtant - 121
+Morguthis - 1
+Mountain Troll - 104
+Mozradek - 1
+Muddy Earth Elemental - 54
+Muglex Clan Assassin - 30
+Muglex Clan Scavenger - 15
+Mummy - 865
+Mushroom Sniffer - 26
+Mutated Bat - 224
+Mutated Human - 132
+Mutated Rat - 223
+Mutated Tiger - 73
+Necromancer - 287
+Neutral deepling warrior - 3
+Nightfiend - 9
+Nightmare - 311
+Nightmare Scion - 91
+Nightmare of Gaz'haragoth - 8
+Nightstalker - 70
+Noble Lion - 6
+Nomad - 193
+Nomad Female - 4
+Northern Pike - 15
+Novice of the Cult - 388
+Nymph - 19
+Ogre Rowdy - 51
+Ogre Ruffian - 44
+Ogre Sage - 33
+Old Bear - 3
+Old Beholder - 19
+Old Bug - 16
+Old Giant Spider - 3
+Old Pig - 5
+Old Spider - 16
+Old Wasp - 23
+Old Wolf - 15
+Omruc - 1
+Orc - 285
+Orc Berserker - 261
+Orc Cult Fanatic - 20
+Orc Cult Inquisitor - 43
+Orc Cult Minion - 13
+Orc Cult Priest - 28
+Orc Cultist - 8
+Orc Leader - 89
+Orc Marauder - 31
+Orc Rider - 53
+Orc Shaman - 146
+Orc Spearman - 298
+Orc Warlord - 32
+Orc Warrior - 420
+Orchid Frog - 20
+Orclops Doomhauler - 26
+Orclops Ravager - 39
+Orewalker - 18
+Overcharged Energy Elemental - 12
+Panda - 32
+Parrot - 15
+Penguin - 140
+Percht - 57
+Phantasm - 141
+Pig - 69
+Pigeon - 9
+Pillar - 5
+Pink Butterfly - 2
+Pirat Cutthroat - 23
+Pirat Scoundrel - 19
+Pirate Buccaneer - 83
+Pirate Corsair - 14
+Pirate Cutthroat - 136
+Pirate Ghost - 30
+Pirate Marauder - 278
+Pirate Skeleton - 112
+Pixie - 79
+Plaguesmith - 281
+Plaguethrower - 39
+Poacher - 24
+Poison Spider - 728
+Polar Bear - 167
+Pooka - 13
+Preceptor Lazare - 1
+Priestess - 66
+Priestess of the Wild Sun - 114
+Purple Butterfly - 4
+Putrid Mummy - 74
+Quara Constrictor - 122
+Quara Constrictor Scout - 99
+Quara Hydromancer - 140
+Quara Hydromancer Scout - 73
+Quara Mantassin - 134
+Quara Mantassin Scout - 95
+Quara Pincher - 161
+Quara Pincher Scout - 93
+Quara Predator - 151
+Quara Predator Scout - 112
+Rabbit - 261
+Rage Squid - 84
+Rahemos - 1
+Rat - 456
+Ravenous Lava Lurker - 48
+Red Butterfly - 11
+Retching Horror - 187
+Rift Brood - 27
+Rift Invader - 15
+Rift Lord - 3
+Rift Phantom - 18
+Rift Scythe - 40
+Rift Worm - 27
+Ripper Spectre - 93
+Roaring Lion - 42
+Roaring Water Elemental - 16
+Rorc - 50
+Rot Elemental - 97
+Rotworm - 1575
+Rustheap Golem - 108
+Sacred Spider - 30
+Salamander - 58
+Salamander Trainer - 1
+Sandcrawler - 289
+Sandstone Scorpion - 28
+Scarab - 932
+Schiach - 95
+Scorpion - 468
+Sea Serpent - 248
+Seacrest Serpent - 2
+Seagull - 141
+Serpent Spawn - 183
+Shaburak Demon - 64
+Shadow Pupil - 37
+Shaper Matriarch - 80
+Shard Of Corruption - 1
+Shark - 98
+Sharptooth - 1
+Sheep - 32
+Shock Head - 17
+Shredderthrower - 19
+Sibang - 200
+Sight of Surrender - 9
+Silencer - 119
+Silver Rabbit - 81
+Skeleton - 1190
+Skeleton Elite Warrior - 83
+Skeleton Warrior - 106
+Skunk - 21
+Slick Water Elemental - 20
+Slime - 414
+Slug - 32
+Smuggler - 178
+Snake - 553
+Snake God Essence - 1
+Son of Verminor - 45
+Soul-Broken Harbinger - 69
+Souleater - 300
+Spectre - 169
+Sphinx - 90
+Spider - 498
+Spidris - 141
+Spidris Elite - 30
+Spiky Carnivor - 47
+Spirit of Fertility - 1
+Spit Nettle - 77
+Spitter - 273
+Splasher - 1
+Squid Warden - 56
+Squirrel - 22
+Stabilizing Dread Intruder - 20
+Stabilizing Reality Reaver - 20
+Stalker - 412
+Stampor - 48
+Starving Wolf - 10
+Stone Devourer - 17
+Stone Golem - 274
+Stone Rhino - 13
+Stonerefiner - 56
+Swamp Troll - 231
+Swampling - 53
+Swan Maiden - 12
+Swarmer - 92
+Tarantula - 446
+Tarnished Spirit - 41
+Terramite - 246
+Terror Bird - 69
+Terrorsleep - 73
+Thalas - 1
+Thanatursus - 144
+Thawing Dragon Lord - 1
+The Collector - 1
+Thorn Minion - 4
+Thornback Tortoise - 236
+Tiger - 37
+Time Keeper - 4
+Toad - 141
+Tomb Servant - 41
+Tortoise - 407
+Troll - 651
+Troll Champion - 107
+Troll Guard - 2
+Troll Legionnaire - 22
+Troll-Trained Salamander - 67
+True Dawnfire Asura - 42
+True Frost Flower Asura - 27
+True Midnight Asura - 37
+Tunnel Tyrant - 37
+Twisted Pooka - 86
+Twisted Shaper - 171
+Undead Dragon - 117
+Undead Elite Gladiator - 65
+Undead Gladiator - 72
+Undead Mine Worker - 4
+Undead Prospector - 1
+Ungreez - 1
+Ushuriel - 1
+Valkyrie - 59
+Vampire - 477
+Vampire Bride - 115
+Vampire Pig - 23
+Vampire Viscount - 78
+Vashresamun - 1
+Vexclaw - 307
+Vicious Manbat - 17
+Vicious Squire - 157
+Vile Grandmaster - 176
+Void - 1
+Vulcongra - 232
+Wailing Widow - 186
+Walker - 53
+War Golem - 238
+War wolf - 82
+Warlock - 79
+Wasp - 333
+Waspoid - 270
+Water Buffalo - 22
+Water Elemental - 141
+Weakened Frazzlemaw - 90
+Weeper - 26
+Werefox - 19
+Werehyaena - 335
+Werehyaena Shaman - 131
+Werelion - 100
+Werelioness - 95
+Werewolf - 100
+White Deer - 42
+White Lion - 32
+White Shade - 41
+Wiggler - 125
+Wild Fire Magic - 5
+Wild Fury Magic - 14
+Wild Nature Magic - 4
+Wild Warrior - 89
+Wild Water Magic - 4
+Wilting Leaf Golem - 71
+Winter wolf - 231
+Wisp - 42
+Witch - 113
+Wolf - 486
+Woodling - 35
+Worker Golem - 198
+Worm Priestess - 91
+Wyrm - 292
+Wyvern - 172
+Xogixath - 1
+Yalahari - 30
+Yellow Butterfly - 7
+Yielothax - 56
+Young Goanna - 65
+Young Sea Serpent - 50
+Young Troll - 10
+Zombie - 223
+Zugurosh - 4
+a carved stone tile - 3
+breach brood - 153
+control tower - 9
+dread intruder - 124
+glooth battery - 9
+glooth powered minotaur - 1
+high voltage elemental - 8
+instable breach brood - 44
+instable sparkion - 30
+meadow strider - 36
+minotaur invader - 12
+muglex clan footman - 16
+ogre brute - 91
+ogre savage - 30
+ogre shaman - 54
+omnivora - 13
+reality reaver - 155
+renegade knight - 94
+sacred snake - 4
+scar tribe shaman - 8
+scar tribe warrior - 11
+spark of destruction - 13
+sparkion - 164
+werebadger - 114
+werebear - 96
+wereboar - 127

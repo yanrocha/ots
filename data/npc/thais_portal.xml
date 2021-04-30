@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Itens Portal" walkinterval="3000" floorchange="0" script="thais_portal.lua">
+	<health now="100" max="100"/>
+	<look type="130" head="80" body="30" legs="10" feet="30" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="incantation notes,21246,100; 
+		fish,2667,100;
+		acorn,11213,100;
+		marsh stalker feather,19742,100;
+		pelvis bone,12437,100;"/>
+	</parameters>
+</npc>

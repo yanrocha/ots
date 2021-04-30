@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Symbol Of Hatred" nameDescription="a symbol of hatred" race="energy" speed="0" manacost="220">
+	<health now="20000" max="20000"/>
+	<look typeex="12383" corpse="38627" />
+	<targetchange interval="2000" chance="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag canwalkonenergy="0"/>
+		<flag canwalkonpoison="0"/>
+	</flags>
+	<defenses armor="88" defense="88"/>
+	<elements>
+		<element earthPercent="25" />
+		<element holyPercent="25" />
+		<element icePercent="-10" />
+		<element deathPercent="-20" />
+		<element energyPercent="50" />
+	</elements>
+	<immunities>
+		<immunity drown="1" />
+		<immunity lifedrain="1" />
+		<immunity paralyze="1" />
+		<immunity invisible="1" />
+		<immunity drunk="1" />
+	</immunities>
+	<voices interval="5000" chance="10">
+	</voices>
+</monster>
