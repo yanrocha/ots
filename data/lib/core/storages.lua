@@ -1695,9 +1695,16 @@ Storage = {
 		ZelosTimer = 50521,
 	},
 	FeasterOfSouls = {
-		UnazTheMean = 135000,
-		IrgixTheFlimsy = 135001,
-		VokTheFreakish = 135002
+		UnazTheMeanTimer = 135001,
+		IrgixTheFlimsyTimer = 135002,
+		VokTheFreakishTimer = 135003
+	},
+	WereAlphas = {
+		BloodbackTimer = 135003,
+		DarkfangTimer = 135004,
+		SharpclawTimer = 135005,
+		ShadowpeltTimer = 135006,
+		BlackVixen = 135007
 	},
 	TheOrderOfTheLion = {
 		-- Reserved storage 52360 (others are global)

@@ -1,16 +1,16 @@
 local BossConfigs = {
     bossEvent = MoveEvent(),
-    bossName = "Unaz The Mean",
+    bossName = "Vok the Freakish",
     bossTime = 600, -- time need to be set in seconds,
-    bossAID = 65534,
-    bossStorageTimer = Storage.FeasterOfSouls.UnazTheMeanTimer,
+    bossAID = 65532,
+    bossStorageTimer = Storage.FeasterOfSouls.VokTheFreakishTimer,
     bossRoomRange = 15,
-    accessDoor = Position(33566, 31475, 8),
-    exit = Position(33562, 31492, 8),
-    bossPosition = Position(33578, 31492, 8),
-    centerRoom = Position(33571, 31492, 8),
-    playerEntranceDestination = Position(33562, 31495, 8),
-    playerExitDestination = Position(33564, 31475, 8),
+    accessDoor = Position(33509, 31450, 9),
+    exit = Position(33505, 31485, 9),
+    bossPosition = Position(33510, 31494, 9),
+    centerRoom = Position(33508, 31491, 9),
+    playerEntranceDestination = Position(33505, 31487, 9),
+    playerExitDestination = Position(33509, 31452, 9),
 }
 
 local function clearRoom()

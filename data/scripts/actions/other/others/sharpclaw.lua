@@ -1,16 +1,16 @@
 local BossConfigs = {
     bossEvent = MoveEvent(),
-    bossName = "Unaz The Mean",
+    bossName = "Sharpclaw",
     bossTime = 600, -- time need to be set in seconds,
-    bossAID = 65534,
-    bossStorageTimer = Storage.FeasterOfSouls.UnazTheMeanTimer,
+    bossAID = 65529,
+    bossStorageTimer = Storage.WereAlphas.SharpclawTimer,
     bossRoomRange = 15,
-    accessDoor = Position(33566, 31475, 8),
-    exit = Position(33562, 31492, 8),
-    bossPosition = Position(33578, 31492, 8),
-    centerRoom = Position(33571, 31492, 8),
-    playerEntranceDestination = Position(33562, 31495, 8),
-    playerExitDestination = Position(33564, 31475, 8),
+    accessDoor = Position(33128, 31971, 9),
+    exit = Position(33120, 31996, 9),
+    bossPosition = Position(33119, 32005, 9),
+    centerRoom = Position(33120, 32001, 9),
+    playerEntranceDestination = Position(33120, 31998, 9),
+    playerExitDestination = Position(33128, 31973, 9),
 }
 
 local function clearRoom()

@@ -1,16 +1,16 @@
 local BossConfigs = {
     bossEvent = MoveEvent(),
-    bossName = "Unaz The Mean",
+    bossName = "Irgix the Flimsy",
     bossTime = 600, -- time need to be set in seconds,
-    bossAID = 65534,
-    bossStorageTimer = Storage.FeasterOfSouls.UnazTheMeanTimer,
+    bossAID = 65533,
+    bossStorageTimer = Storage.FeasterOfSouls.IrgixTheFlimsyTimer,
     bossRoomRange = 15,
-    accessDoor = Position(33566, 31475, 8),
-    exit = Position(33562, 31492, 8),
-    bossPosition = Position(33578, 31492, 8),
-    centerRoom = Position(33571, 31492, 8),
-    playerEntranceDestination = Position(33562, 31495, 8),
-    playerExitDestination = Position(33564, 31475, 8),
+    accessDoor = Position(33491, 31398, 8),
+    exit = Position(33467, 31396, 8),
+    bossPosition = Position(33468, 31405, 8),
+    centerRoom = Position(33466, 31400, 8),
+    playerEntranceDestination = Position(33467, 31398, 8),
+    playerExitDestination = Position( 33492, 31400, 8),
 }
 
 local function clearRoom()
