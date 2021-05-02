@@ -1,4 +1,4 @@
-local netherWorld = MoverEvent()
+local netherWorld = MoveEvent()
 
 local destinations = {
     [1] = Position( 32883, 32518, 7),    -- entrada por port hope
@@ -18,41 +18,42 @@ local destinations = {
 function netherWorld.onStepIn(creature, item, position, fromPosition)
 
     local player = creature:getPlayer();
+    local itemPosition = item:getPosition()
 
     if not player then
         return true
     end
 
-    if item:getPosition() == destinations[1] or item:getPosition() == destinations[2] then
+    if itemPosition == destinations[1] or itemPosition == destinations[2] then
         player:teleportTo(destinations[3])
+        itemPosition:sendMagicEffect(CONST_ME_TELEPORT)
         fromPosition:sendMagicEffect(CONST_ME_TELEPORT)
-        teleport:sendMagicEffect(CONST_ME_TELEPORT)
         return true
     end
 
-    if item:getPosition() == destinations[4] then
+    if itemPosition == destinations[4] then
         player:teleportTo(destinations[5])
+        itemPosition:sendMagicEffect(CONST_ME_TELEPORT)
         fromPosition:sendMagicEffect(CONST_ME_TELEPORT)
-        teleport:sendMagicEffect(CONST_ME_TELEPORT)
         return true
     end
-    if item:getPosition() == destinations[6] then
+    if itemPosition == destinations[6] then
         player:teleportTo(destinations[7])
+        itemPosition:sendMagicEffect(CONST_ME_TELEPORT)
         fromPosition:sendMagicEffect(CONST_ME_TELEPORT)
-        teleport:sendMagicEffect(CONST_ME_TELEPORT)
         return true
     end
 
-    if item:getPosition() == destinations[8] then
+    if itemPosition == destinations[8] then
         player:teleportTo(destinations[9])
+        itemPosition:sendMagicEffect(CONST_ME_TELEPORT)
         fromPosition:sendMagicEffect(CONST_ME_TELEPORT)
-        teleport:sendMagicEffect(CONST_ME_TELEPORT)
         return true
     end
-    if item:getPosition() == destinations[10] then
+    if itemPosition == destinations[10] then
         player:teleportTo(destinations[11])
+        itemPosition:sendMagicEffect(CONST_ME_TELEPORT)
         fromPosition:sendMagicEffect(CONST_ME_TELEPORT)
-        teleport:sendMagicEffect(CONST_ME_TELEPORT)
         return true
     end
 

@@ -1694,6 +1694,11 @@ Storage = {
 		NargolTimer = 50520,
 		ZelosTimer = 50521,
 	},
+	FeasterOfSouls = {
+		UnazTheMean = 135000,
+		IrgixTheFlimsy = 135001,
+		VokTheFreakish = 135002
+	},
 	TheOrderOfTheLion = {
 		-- Reserved storage 52360 (others are global)
 		Drume = {
