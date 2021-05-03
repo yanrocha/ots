@@ -14,7 +14,7 @@ local BossConfigs = {
 }
 
 local function clearRoom()
-    local spectators = Game.getSpectators(BossConfigs.centerRoom, false, false, BossConfigs.bossRoomRange, BossConfigs.bossRoomRange, BossConfigs.bossRoomRange, BossConfigs.bossRoomRange)
+    local spectators = Game.getSpectators(BossConfigs.centerRoom, false, false, BossConfigs.bossRoomRange, BossConfigs.bossRoomRange)
     for i = 1, #spectators do
         local spectator = spectators[i]
         if spectator:isPlayer() then

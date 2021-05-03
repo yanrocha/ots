@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Bandit" script="default.lua" walkinterval="0" speed="100" walkradius="4" floorchange="0" speechbubble="2">
+	<health max="100" now="100"/>
+	<look type="146" head="0" body="76" legs="94" feet="76" addons="3" mount="0"/>
+	<parameters>
+		<!--MESSAGES-->
+		<parameter key="message_greet" value="Oh, hello! I'm the gnome-human relations assistant. I am here for you to trade your tokens for equipment, resupply you with mission items and talk to you about your relations to us gnomes! ..."/>
+		<parameter key="message_farewell" value="Good bye, |PLAYERNAME|."/>
+		<parameter key="message_onbuy" value="Here you are."/>
+		<parameter key="message_idletimeout" value="Good bye."/>
+		<!--SHOP-->
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="gill gugel,18398,1000000;gill coat,18399,1000000;gill legs,18400,1000000;spellbook of vigilance,18401,1000000;prismatic helmet,18403,1000000;prismatic armor,18404,1000000;prismatic legs,18405,1000000;prismatic boots,18406,1000000;prismatic shield,18410,1000000"/>
+	</parameters>
+</npc>

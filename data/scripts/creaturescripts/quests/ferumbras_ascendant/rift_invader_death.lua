@@ -22,6 +22,10 @@ function riftInvaderDeath.onDeath(creature, corpse, lasthitkiller, mostdamagekil
 
 	for i = 1, #crystals do
 		local crystal = crystals[i]
+
+		targetMonster:say(crystal.globalStorage, TALKTYPE_MONSTER_SAY, false, nil, toPosition)
+
+
 		if isInRange(targetMonster:getPosition(), crystal.fromPosition, crystal.toPosition) then
 			if Game.getStorageValue(crystal.globalStorage) > 8 then
 				local item = Tile(crystal.crystalPosition):getItemById(17580)
